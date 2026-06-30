@@ -1,0 +1,50 @@
+<svg xmlns="http://w3.org" viewBox="0 0 600 70" width="600" height="70">
+  <style>
+    @keyframes typeAndDelete {
+      0%, 10% { width: 0; }
+      15%, 25% { width: 10ch; }   /* 👋 Hello, World! */
+      30%, 35% { width: 0; }
+      40%, 50% { width: 15ch; }   /* 🌍 Bonjour le monde! */
+      55%, 60% { width: 0; }
+      65%, 75% { width: 10ch; }   /* ✨ Hola, Mundo! */
+      80%, 85% { width: 0; }
+      90%, 98% { width: 10ch; }   /* 🌸 こんにちは世界! */
+      100% { width: 0; }
+    }
+    @keyframes textChange {
+      0%, 29.9% { content: "👋 Hello, World!"; }
+      30%, 59.9% { content: "🌍 Bonjour le monde!"; }
+      60%, 84.9% { content: "✨ Hola, Mundo!"; }
+      85%, 100% { content: "🌸 こんにちは世界!"; }
+    }
+    @keyframes blink {
+      50% { border-color: transparent; }
+    }
+    .typewriter-text {
+      font-family: 'Fira Code', monospace, sans-serif;
+      font-weight: 800;
+      font-size: 28px;
+      fill: #F74075;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    .wrapper {
+      display: inline-block;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 3px solid #F74075;
+      animation: typeAndDelete 16s steps(20) infinite, blink 0.5s step-end infinite;
+    }
+    .wrapper::after {
+      content: "";
+      animation: textChange 16s infinite;
+    }
+  </style>
+  <g transform="translate(300, 35)">
+    <foreignObject x="-300" y="-35" width="600" height="70">
+      <div xmlns="http://w3.org" style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
+        <span class="wrapper typewriter-text"></span>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
