@@ -14,7 +14,7 @@
 <br>
 <p align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🗽+Hello+World;☕+Olá+Mundo;🍺+Hallo+Welt;🌸+こんにちは世界;🥐+Bonjour+le+monde;🐉+你好，世界;🍕+Ciao+Mondo;🍜+안녕하세요+세계;💃+¡Hola+Mundo;🥥+Kamusta+Mundo)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🚀+Hello+World;☕+Olá+Mundo;🍺+Hallo+Welt;🌸+こんにちは世界;🥐+Bonjour+le+monde;🐉+你好，世界;🍕+Ciao+Mondo;🍜+안녕하세요+세계;💃+¡Hola+Mundo;🥥+Kamusta+Mundo)](https://git.io/typing-svg)
 
 </p>
 
