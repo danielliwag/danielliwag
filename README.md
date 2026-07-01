@@ -21,7 +21,7 @@
 <br>
 <br>
 
-## 👨🏻‍💻 about_me.py
+## 👨🏻‍💻 about_me.yaml
 
 ```yaml
 ---
