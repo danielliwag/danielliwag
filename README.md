@@ -1,12 +1,12 @@
 <p align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=100&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🚀+Hello+World;☕+Olá+Mundo;🍺+Hallo+Welt;🌸+こんにちは世界;🥐+Bonjour+le+monde;🐉+你好，世界;🍕+Ciao+Mondo;🍜+안녕하세요+세계;💃+¡Hola+Mundo;🥥+Kamusta+Mundo)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=50&pause=100&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🚀+Hello+World;☕+Olá+Mundo;🍺+Hallo+Welt;🌸+こんにちは世界;🥐+Bonjour+le+monde;🐉+你好，世界;🍕+Ciao+Mondo;🍜+안녕하세요+세계;💃+¡Hola+Mundo;🥥+Kamusta+Mundo)](https://git.io/typing-svg)
   
 </p>
 
 
 
-# 👨🏻‍💻 about_me.yaml
+## 👨🏻‍💻 about_me.yaml
 
 
 ```yaml
@@ -55,8 +55,6 @@ daniel_liwag:
 ```
 <br>
 
----
-
 <p align="center">
   <a href="https://danielliwag.github.io" target="_blank">
     <img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE%20%E2%86%97-FFCA00?style=for-the-badge" alt="Portfolio Website" width=300 height=50 />
@@ -72,6 +70,9 @@ daniel_liwag:
        width="590"
        height="210"/>
 </p>
+
+<br>
+<br>
 
 <img width="1000" height="100" alt="banner" src="https://github.com/user-attachments/assets/1f0c95ab-e79c-411c-b1c2-2768efff247d" />
 <svg width="1000" height="100" viewBox="0 0 1000 100" fill="none" xmlns="http://www.w3.org/2000/svg">
