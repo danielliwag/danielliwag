@@ -14,7 +14,7 @@
 <br>
 <p align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=38&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=👋+Hello+World;🥥+Kamusta+Mundo;🌸+こんにちは世界;🥟+안녕하세요+세계;🐉+你好，世界;🥐+Bonjour+le+monde;🍺+Hallo+Welt;🍕+Ciao+Mondo;💃+¡Hola+Mundo;☕+Olá+Mundo)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1200&color=FFFFFF&center=true&vCenter=true&width=1000&lines=🗽+Hello+World;☕+Olá+Mundo;🍺+Hallo+Welt;🌸+こんにちは世界;🥐+Bonjour+le+monde;🐉+你好，世界;🍕+Ciao+Mondo;🍜+안녕하세요+세계;💃+¡Hola+Mundo;🥥+Kamusta+Mundo)](https://git.io/typing-svg)
 
 </p>
 
@@ -30,15 +30,15 @@ class DanielLiwag:
         self.organization = ""
         self.location = "Pampanga, Philippines"
         self.skills = ["Python", "SQL", "AWS", "Airflow", "Snowflake", "dbt", "Docker", "Web Scraping"]
-        self.interests = ["AI", "Machine Learning", "LLMs", "NLP", "Computer Vision"]
-        self.hobbies = ["Craft Coffee & Matcha","Camping", "Running", "Building Side Projects", "Exploring Data Tech Trends"]
+        self.interests = ["CI/CD", "System Reliability", "DataOps", "Machine Learning", "AI"]
+        self.hobbies = ["Craft Coffee & Matcha", "Gaming", "Camping", "Running", "Building Side Projects", "Exploring Data Tech Trends"]
     
     def what_i_do(self):
         return ["Pipeline Architecture", "Workflow automation", "Cloud Data Infrastructure"
                 "Develop BI dashboards"]
                 
     def currently_learning(self):
-        return ["IaC/Devops", "Machine Learning",
+        return ["IaC", "Machine Learning",
                 "Real-Time Data Streaming", "Machine Learning", 
                 "Data Governance"]
 ```
