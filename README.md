@@ -23,24 +23,49 @@
 
 ## 👨🏻‍💻 about_me.py
 
-```python
-class DanielLiwag:
-    def __init__(self):
-        self.role = "Data Engineer"
-        self.organization = ""
-        self.location = "Pampanga, Philippines"
-        self.skills = ["Python", "SQL", "AWS", "Airflow", "Snowflake", "dbt", "Docker", "Web Scraping"]
-        self.interests = ["CI/CD", "System Reliability", "DataOps", "Machine Learning", "AI"]
-        self.hobbies = ["Craft Coffee & Matcha", "Gaming", "Camping", "Running", "Building Side Projects", "Exploring Data Tech Trends"]
+```yaml
+---
+daniel_liwag:
+  role: "Data Engineer"
+  organization: ""
+  location: "Pampanga, Philippines"
+  
+  skills:
+    - "Python"
+    - "SQL"
+    - "AWS"
+    - "Airflow"
+    - "Snowflake"
+    - "dbt"
+    - "Docker"
+    - "Web Scraping"
     
-    def what_i_do(self):
-        return ["Pipeline Architecture", "Workflow automation", "Cloud Data Infrastructure"
-                "Develop BI dashboards"]
-                
-    def currently_learning(self):
-        return ["IaC", "Machine Learning",
-                "Real-Time Data Streaming", "Machine Learning", 
-                "Data Governance"]
+  interests:
+    - "CI/CD"
+    - "System Reliability"
+    - "DataOps"
+    - "Machine Learning"
+    - "AI"
+    
+  hobbies:
+    - "Craft Coffee & Matcha"
+    - "Gaming"
+    - "Camping"
+    - "Running"
+    - "Building Side Projects"
+    - "Exploring Data Tech Trends"
+    
+  what_i_do:
+    - "Pipeline Architecture"
+    - "Workflow automation"
+    - "Cloud Data Infrastructure"
+    - "Develop BI dashboards"
+    
+  currently_learning:
+    - "IaC"
+    - "Machine Learning"
+    - "Real-Time Data Streaming"
+    - "Data Governance"
 ```
 <br>
 
