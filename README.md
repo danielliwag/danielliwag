@@ -73,7 +73,7 @@ daniel_liwag:
 
 <div align="center">
   <a href="https://danielliwag.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE%20HERE%20%E2%86%97-FFCA00?style=for-the-badge" alt="Portfolio Website" width="300" height="50" />
+    <img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE%20HERE%20%E2%86%97-05192D?style=for-the-badge&labelColor=03EF62" alt="Portfolio Website" width="300" height="50" />
   </a>
   <br />
   <sub><i>Click to explore my professional portfolio</i></sub>
@@ -83,13 +83,13 @@ daniel_liwag:
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=danielliwag&show_icons=true&card_width=510&bg_color=212529&title_color=FFD166&icon_color=FFD166&text_color=F8F9FA" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danielliwag&layout=compact&card_width=490&bg_color=212529&title_color=FFD166&text_color=F8F9FA" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=danielliwag&show_icons=true&card_width=560&bg_color=05192D&title_color=03EF62&icon_color=03EF62&text_color=FFFFFF" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danielliwag&layout=compact&card_width=480&bg_color=05192D&title_color=03EF62&text_color=FFFFFF" alt="Top Languages" height="165" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielliwag&bg_color=000000&color=ffffff&line=FFCA00&point=ffffff&area=true&hide_border=true"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielliwag&bg_color=05192D&color=FFFFFF&line=03EF62&point=FFFFFF&area=true&hide_border=true"
        width="590"
        height="210"/>
        
