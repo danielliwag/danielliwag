@@ -76,6 +76,12 @@ daniel_liwag:
 <br>
 
 <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=danielliwag&show_icons=true&card_width=510&bg_color=212529&title_color=FFD166&icon_color=FFD166&text_color=F8F9FA" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=danielliwag&layout=compact&card_width=490&bg_color=212529&title_color=FFD166&text_color=F8F9FA" alt="Top Languages" height="165" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=danielliwag&bg_color=000000&color=ffffff&line=FFCA00&point=ffffff&area=true&hide_border=true"
        width="590"
        height="210"/>
