@@ -26,47 +26,47 @@
 
 ```yaml
 ---
+---
 daniel_liwag:
-  role: "Data Engineer"
+  role: Data Engineer
   organization: ""
-  location: "Pampanga, Philippines"
-  
+  location: Pampanga, Philippines
+
   skills:
-    - "Python"
-    - "SQL"
-    - "AWS"
-    - "Airflow"
-    - "Snowflake"
-    - "dbt"
-    - "Docker"
-    - "Web Scraping"
+    - Data Ingestion
+    - ETL/ELT Pipeline Development
+    - Data Modeling & Transformation
+    - Workflow Orchestration
+    - Data Warehouse and Lakehouse
+    - Cloud Infrastructure
+    - Data Governance
     
   interests:
-    - "CI/CD"
-    - "System Reliability"
-    - "DataOps"
-    - "Machine Learning"
-    - "AI"
-    
-  hobbies:
-    - "Craft Coffee & Matcha"
-    - "Gaming"
-    - "Camping"
-    - "Running"
-    - "Building Side Projects"
-    - "Exploring Data Tech Trends"
+    - CI/CD
+    - System Reliability
+    - DataOps
+    - Machine Learning
+    - AI
     
   what_i_do:
-    - "Pipeline Architecture"
-    - "Workflow automation"
-    - "Cloud Data Infrastructure"
-    - "Develop BI dashboards"
+    - Pipeline Architecture
+    - Workflow automation
+    - Cloud Data Infrastructure
+    - Develop BI dashboards
     
   currently_learning:
-    - "IaC"
-    - "Machine Learning"
-    - "Real-Time Data Streaming"
-    - "Data Governance"
+    - IaC
+    - Machine Learning
+    - Real-Time Data Streaming
+    - Data Governance
+
+  hobbies:
+    - Craft Coffee & Matcha
+    - Gaming
+    - Camping
+    - Running
+    - Building Side Projects
+    - Exploring Data Tech Trends
 ```
 <br>
 <br>
