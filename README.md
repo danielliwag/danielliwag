@@ -26,7 +26,6 @@
 
 ```yaml
 ---
----
 daniel_liwag:
   role: Data Engineer
   organization: ""
