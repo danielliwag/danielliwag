@@ -31,7 +31,7 @@ daniel_liwag:
   organization: ""
   location: Pampanga, Philippines
 
-  skills:
+  what_i_do:
     - Data Ingestion
     - ETL/ELT Pipeline Development
     - Data Modeling & Transformation
@@ -47,11 +47,29 @@ daniel_liwag:
     - Machine Learning
     - AI
     
-  what_i_do:
-    - Pipeline Architecture
-    - Workflow automation
-    - Cloud Data Infrastructure
-    - Develop BI dashboards
+  tech_stack:
+    languages:
+      - Python
+      - SQL
+    storage:
+      - PostgreSQL
+      - MySQL
+      - Snowflake
+    processing:
+      - Spark
+      - dbt
+      - Kafka
+    orchestration:
+      - Airflow
+    infrastructure:
+      - AWS
+      - Terraform
+      - Docker
+    environment:
+      - Linux
+      - Git
+      - GitHub
+      - VS Code
     
   currently_learning:
     - IaC
