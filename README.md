@@ -89,7 +89,7 @@ daniel_liwag:
 <br>
 
 <div align="center">
-  <a href="https://danielliwag.github.io" target="_blank">
+  <a href="https://danielliwag.is-a.dev" target="_blank">
     <img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE%20HERE%20%E2%86%97-05192D?style=for-the-badge&labelColor=03EF62" alt="Portfolio Website" width="300" height="50" />
   </a>
   <br />
