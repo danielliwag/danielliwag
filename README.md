@@ -28,7 +28,7 @@
 ---
 daniel_liwag:
   role: Data Engineer
-  organization: ""
+  organization: Data Engineering Pilipinas
   location: Pampanga, Philippines
 
   what_i_do:
