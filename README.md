@@ -114,7 +114,6 @@ daniel_liwag:
 
 <br>
 <br>
-
 <img width="1000" height="122" alt="Frame 24" src="https://github.com/user-attachments/assets/71bb0c94-86f8-4976-910a-02a0e59f0e21" />
 <svg width="1000" height="122" viewBox="0 0 1000 122" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_71_12)">
