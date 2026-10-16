@@ -85,9 +85,9 @@ daniel_liwag:
 
   interest_outside_tech:
     - Craft Coffee & Matcha
-    - Gaming
-    - Perfumes
-    - Fashion
+    - PC and Console Gaming
+    - Fashion & Perfumes
+    - TV Series & Documentaries
     - Outdoor & Recreational Sports
 ```
 <br>
