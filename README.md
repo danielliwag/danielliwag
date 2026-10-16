@@ -27,63 +27,68 @@
 ```yaml
 ---
 daniel_liwag:
-  role: Data Engineer
-  organization: Data Engineering Pilipinas
-  location: Pampanga, Philippines
+  role: "Data Engineer"
+  community: "Data Engineering Pilipinas"
+  location: "Pampanga, Philippines"
 
-  what_i_do:
-    - Data Ingestion
+   focus:
+    - Data Ingestion & Integration
     - ETL/ELT Pipeline Development
     - Data Modeling & Transformation
     - Workflow Orchestration
-    - Data Warehouse and Lakehouse
-    - Cloud Infrastructure
+    - Data Quality & Observability
+    - Data Warehousing
     - Data Governance
-    
-  interests:
-    - CI/CD
-    - System Reliability
-    - DataOps
-    - Machine Learning
-    - AI
     
   tech_stack:
     languages:
       - Python
       - SQL
-    storage:
+
+    databases_and_warehouses:
       - PostgreSQL
       - MySQL
       - Snowflake
-    processing:
-      - Spark
+
+    processing_and_transformation:
+      - Apache Spark
       - dbt
-      - Kafka
-    orchestration:
-      - Airflow
-    infrastructure:
+
+    orchestration_and_streaming:
+      - Apache Airflow
+      - Apache Kafka
+
+    cloud_and_infrastructure:
       - AWS
-      - Terraform
       - Docker
-    environment:
+      - Terraform
+
+    development_tools:
       - Linux
       - Git
       - GitHub
       - VS Code
     
-  currently_learning:
-    - IaC
-    - Machine Learning
+  currently_exploring:
+    - Infrastructure as Code
+    - CI/CD for Data Pipelines
     - Real-Time Data Streaming
-    - Data Governance
+    - Data Observability
+    - Open Lakehouse Architecture
+    - AI-Ready Data Infrastructure
+    - DataOps & Platform Engineering
+    - Distributed Data Processing
+    - Data Governance & Metadata Management
+    - Machine Learning
+    - AI Engineering
+    - Exploring Emerging Technologies in Data world
 
-  hobbies:
+  interest_outside_tech:
     - Craft Coffee & Matcha
     - Gaming
-    - Camping
-    - Running
-    - Building Side Projects
-    - Exploring Data Tech Trends
+    - Perfumes
+    - Fashion
+    - Outdoor & Recreational Sports
 ```
 <br>
 <br>
